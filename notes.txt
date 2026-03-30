@@ -4,3 +4,4 @@ add project description
 fix typos in README
 improve documentation
 add notes file
+update notes content
