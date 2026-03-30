@@ -5,3 +5,4 @@ fix typos in README
 improve documentation
 add notes file
 update notes content
+add basic HTML file
