@@ -1,2 +1,3 @@
 Day 1: Started learning GitHub commits
 update README file
+add project description
