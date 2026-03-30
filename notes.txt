@@ -12,3 +12,4 @@ improve CSS layout
 minor UI fix
 add simple JS file
 update JS logic
+fix small bug
