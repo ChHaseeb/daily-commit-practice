@@ -16,3 +16,4 @@ fix small bug
 code cleanup
 remove unused lines
 improve formatting
+add comments in code
