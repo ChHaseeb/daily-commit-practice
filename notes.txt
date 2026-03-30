@@ -15,3 +15,4 @@ update JS logic
 fix small bug
 code cleanup
 remove unused lines
+improve formatting
