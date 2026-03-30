@@ -6,3 +6,4 @@ improve documentation
 add notes file
 update notes content
 add basic HTML file
+update HTML structure
