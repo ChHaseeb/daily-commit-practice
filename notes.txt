@@ -8,3 +8,4 @@ update notes content
 add basic HTML file
 update HTML structure
 add CSS styling
+improve CSS layout
