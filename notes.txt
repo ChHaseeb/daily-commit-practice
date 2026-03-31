@@ -21,3 +21,4 @@ initial improvements done
 add new section
 update existing section
 improve UI design
+fix UI alignment
