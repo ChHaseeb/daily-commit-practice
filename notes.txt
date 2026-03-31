@@ -33,3 +33,4 @@ fix feature 1 bug
 add feature 2
 update feature 2
 optimize performance
+reduce file size
