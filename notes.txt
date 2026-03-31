@@ -17,3 +17,4 @@ code cleanup
 remove unused lines
 improve formatting
 add comments in code
+initial improvements done
