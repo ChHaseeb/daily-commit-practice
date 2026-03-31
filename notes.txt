@@ -25,3 +25,4 @@ fix UI alignment
 optimize CSS
 add responsiveness
 refactor code
+clean project files
