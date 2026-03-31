@@ -30,3 +30,4 @@ update dependencies
 add feature 1
 improve feature 1
 fix feature 1 bug
+add feature 2
