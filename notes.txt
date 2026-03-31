@@ -23,3 +23,4 @@ update existing section
 improve UI design
 fix UI alignment
 optimize CSS
+add responsiveness
