@@ -31,3 +31,4 @@ add feature 1
 improve feature 1
 fix feature 1 bug
 add feature 2
+update feature 2
