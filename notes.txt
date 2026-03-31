@@ -35,3 +35,4 @@ update feature 2
 optimize performance
 reduce file size
 improve loading speed
+update styles
