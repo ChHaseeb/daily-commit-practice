@@ -50,3 +50,4 @@ improve validation
 update error handling
 fix error handling
 add logging
+update logging
