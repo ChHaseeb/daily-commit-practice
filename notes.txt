@@ -42,3 +42,4 @@ update component logic
 fix component bug
 improve UI consistency
 update structure
+add helper function
