@@ -43,3 +43,4 @@ fix component bug
 improve UI consistency
 update structure
 add helper function
+fix helper function
