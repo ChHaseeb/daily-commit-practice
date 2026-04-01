@@ -54,3 +54,4 @@ update logging
 clean codebase
 remove redundancy
 optimize workflow
+update scripts
