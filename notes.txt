@@ -37,3 +37,4 @@ reduce file size
 improve loading speed
 update styles
 enhance layout
+add new component
