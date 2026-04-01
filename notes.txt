@@ -47,3 +47,4 @@ fix helper function
 optimize function
 add validation
 improve validation
+update error handling
